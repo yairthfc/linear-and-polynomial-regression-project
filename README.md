@@ -1,4 +1,4 @@
-# 📘 Machine Learning Regression — Implemented From Scratch
+# Machine Learning Regression, Implemented From Scratch
 
 This repository contains a complete implementation of **Linear Regression** and **Polynomial Regression** *from scratch* using only NumPy.  
 It also includes two full applied machine learning pipelines:
@@ -8,7 +8,7 @@ It also includes two full applied machine learning pipelines:
 
 The project demonstrates theoretical understanding, model implementation, data preprocessing, visualization, and full evaluation pipelines.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ml-regression-from-scratch/
@@ -33,7 +33,7 @@ ml-regression-from-scratch/
 └── .gitignore
 ```
 
-## 🚀 Features
+## Features
 
 ### 1. Linear Regression (From Scratch)
 Implements the closed-form OLS solution:
@@ -61,7 +61,7 @@ Includes:
 - Polynomial fitting for k=1…10  
 - Cross‑country generalization evaluation  
 
-## 📊 Visual Outputs
+## Visual Outputs
 The project generates:
 - Scatter plots  
 - STD per month  
@@ -69,7 +69,7 @@ The project generates:
 - Feature correlations  
 - Training-size analysis  
 
-## 🧠 Theoretical Component
+## Theoretical Component
 Located in `docs/Answers.pdf`, covering:
 - Linear algebra  
 - Least squares derivations  
@@ -77,29 +77,29 @@ Located in `docs/Answers.pdf`, covering:
 - Multivariate calculus  
 - SVD connections  
 
-## 📦 Installation
+## Installation
 ```
 pip install -r requirements.txt
 ```
 
-## ▶️ Usage
+## Usage
 ```
 python src/city_temperature_prediction.py
 python src/house_price_prediction.py
 ```
 
-## 🛠 Technologies
+## Technologies
 Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn (split only).
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 - Implementing ML algorithms manually  
 - Strong math foundations  
 - Data processing + visualization  
 - Model evaluation  
 - Clean reproducible ML pipelines  
 
-## 📘 License
+## License
 MIT License.
 
-## 🙌 Author
+## Author
 **Yair Mahfud**
